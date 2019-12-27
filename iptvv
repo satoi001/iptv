@@ -1,14 +1,14 @@
-#EXTINF:-1,AR: Sport 4K
-http://tv.zalhd.vip:20002/111222333/111222333/6149
-#EXTINF:-1,AR: News 4K
-http://tv.zalhd.vip:20002/111222333/111222333/18000
-#EXTINF:-1,AR: Sport 01 4K
-http://tv.zalhd.vip:20002/111222333/111222333/4243
-#EXTINF:-1,AR: Sport 02 4K
-http://tv.zalhd.vip:20002/111222333/111222333/4242
-#EXTINF:-1,AR: Sport 03 4K
-http://tv.zalhd.vip:20002/111222333/111222333/4241
-#EXTINF:-1,AR: Sport 04 4K
-http://tv.zalhd.vip:20002/111222333/111222333/4240
-#EXTINF:-1,AR: Sport 05 4K
-http://tv.zalhd.vip:20002/111222333/111222333/4239
+#EXTINF:-1,Das Erste HD
+http://88.152.196.67:9981/stream/channelid/660962425
+#EXTINF:-1,ZDF HD
+http://88.152.196.67:9981/stream/channelid/549995795
+#EXTINF:-1,RTL HD
+http://88.152.196.67:9981/stream/channelid/1745512668
+#EXTINF:-1,SAT.1 HD
+http://88.152.196.67:9981/stream/channelid/2050011011
+#EXTINF:-1,ProSieben HD
+http://88.152.196.67:9981/stream/channelid/1828400175
+#EXTINF:-1,RTLII HD
+http://88.152.196.67:9981/stream/channelid/855226147
+#EXTINF:-1,SUPER RTL HD
+http://88.152.196.67:9981/stream/channelid/214328905
